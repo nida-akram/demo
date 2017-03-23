@@ -1,0 +1,11 @@
+{
+  "name"         : "scraper",
+  "version"      : "1",
+  "main"         : "doit.js",
+  "author"       : "Nida A",
+  "dependencies" : {
+    "express"    : "latest",
+    "request"    : "latest",
+    "cheerio"    : "latest"
+  }
+}
